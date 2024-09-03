@@ -3,13 +3,15 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%0D0069FF&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;Always+learning+new+things;Junior+Flutter+Developer"></a>
 </p>
- <picture><img src = "https://github.com/MahmoudAbuelazm/MahmoudAbuelazm/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<h2> About me :</h2>
 <img src = "https://gifdb.com/images/high/coding-girl-animation-fe7t4gejurmtof8v.webp" alt = "Coding" align = "right" width = "400px">
 
 <br>
 
 - :school: I am a `Junior` at [Faculty of Computers & Information Sciences at Mansoura University](https://www.facebook.com/share/USyksGPAFdfC7VCZ/?mibextid=qi2Omg).
 - :technologist: Interested in Mobile Development | Flutter Framework .
+- 📫 How to reach me **ammlgammal77@gmail.com**
+
 <br><br><br><br><br><br><br>
 </div>
 
@@ -40,8 +42,7 @@
 
 
 
-
-## <picture> <img src="https://github.com/MahmoudAbuelazm/MahmoudAbuelazm/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+<h2> Connect me : </h2>
 <p align="center">
 	<a href="mailto:ammlgammal77@gmail.com">
     <img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/>
